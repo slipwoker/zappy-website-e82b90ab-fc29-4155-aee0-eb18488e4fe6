@@ -1,0 +1,57 @@
+# ניגע בעומק — Generative Engine Optimization Map
+
+> A בריאות הנפש וטיפול בהתמכרויות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-e82b90ab.zappy5.app
+סדנא על התמכרות למין מקצועית עם תוצאות אמיתיות. קבוצות תמיכה, קורס דיגיטלי וטיפול אישי. התחל את המסע שלך לחופש היום.
+
+### השירותים שלנו
+https://-e82b90ab.zappy5.app/services
+גלה את שירותי טיפול בהתמכרות למין שלנו: קבוצות תמיכה, קורס דיגיטלי, טיפול אישי וסדנאות. פתרונות מקיפים למסע השחרור שלך.
+
+### אודות
+https://-e82b90ab.zappy5.app/about
+למד על ניגע בעומק - מומחים בטיפול בהתמכרות למין עם גישה אמפתית ומקצועית. הסיפור, הצוות והמחויבות שלנו לעזור לך להשתחרר.
+
+### צור קשר
+https://-e82b90ab.zappy5.app/contact
+צור קשר עם ניגע בעומק לשיחת ייעוץ ללא התחייבות. אנחנו כאן כדי לענות על שאלות ולעזור לך למצוא את השירות המתאים לטיפול בהתמכרות למין.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e82b90ab.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e82b90ab.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e82b90ab.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ניגע בעומק
+ניגע בעומק is a business in the בריאות הנפש וטיפול בהתמכרויות industry.
+
+## Target Audience
+מכורים למין
+
+## Industry
+בריאות הנפש וטיפול בהתמכרויות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e82b90ab.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e82b90ab.zappy5.app/robots.txt

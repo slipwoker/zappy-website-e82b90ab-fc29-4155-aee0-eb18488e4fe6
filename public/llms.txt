@@ -1,51 +1,61 @@
-# Business — Generative Engine Optimization Map
+# ניגע בעומק — Generative Engine Optimization Map
+
+> A בריאות הנפש וטיפול בהתמכרויות business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://niga-baomek.zappy5.app
+https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com
 סדנא על התמכרות למין מקצועית עם תוצאות אמיתיות. קבוצות תמיכה, קורס דיגיטלי וטיפול אישי. התחל את המסע שלך לחופש היום.
 
 ### השירותים שלנו
-https://niga-baomek.zappy5.app/services
+https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/services
 גלה את שירותי טיפול בהתמכרות למין שלנו: קבוצות תמיכה, קורס דיגיטלי, טיפול אישי וסדנאות. פתרונות מקיפים למסע השחרור שלך.
 
 ### אודות
-https://niga-baomek.zappy5.app/about
+https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/about
 למד על ניגע בעומק - מומחים בטיפול בהתמכרות למין עם גישה אמפתית ומקצועית. הסיפור, הצוות והמחויבות שלנו לעזור לך להשתחרר.
 
 ### צור קשר
-https://niga-baomek.zappy5.app/contact
+https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/contact
 צור קשר עם ניגע בעומק לשיחת ייעוץ ללא התחייבות. אנחנו כאן כדי לענות על שאלות ולעזור לך למצוא את השירות המתאים לטיפול בהתמכרות למין.
 
 ### לקוחות מספרים בוידאו - ניגע בעומק
-https://niga-baomek.zappy5.app/video-testimonials
+https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/video-testimonials
 צפו בעדויות וידאו מרגשות של בוגרי הסדנא לטיפול בהתמכרות למין. סיפורים אישיים על החלמה, תקווה והדרך לחופש.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://niga-baomek.zappy5.app/privacy
+https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://niga-baomek.zappy5.app/terms
+https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://niga-baomek.zappy5.app/accessibility
+https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About ניגע בעומק
+ניגע בעומק is a business in the בריאות הנפש וטיפול בהתמכרויות industry.
+
+## Target Audience
+מכורים למין
+
+## Industry
+בריאות הנפש וטיפול בהתמכרויות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://niga-baomek.zappy5.app/sitemap.xml
-- **Robots.txt**: https://niga-baomek.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/robots.txt

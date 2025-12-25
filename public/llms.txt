@@ -1,57 +1,51 @@
-# ניגע בעומק — Generative Engine Optimization Map
-
-> A בריאות הנפש וטיפול בהתמכרויות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com
+https://niga-baomek.zappy5.app
 סדנא על התמכרות למין מקצועית עם תוצאות אמיתיות. קבוצות תמיכה, קורס דיגיטלי וטיפול אישי. התחל את המסע שלך לחופש היום.
 
 ### השירותים שלנו
-https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/services
+https://niga-baomek.zappy5.app/services
 גלה את שירותי טיפול בהתמכרות למין שלנו: קבוצות תמיכה, קורס דיגיטלי, טיפול אישי וסדנאות. פתרונות מקיפים למסע השחרור שלך.
 
 ### אודות
-https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/about
+https://niga-baomek.zappy5.app/about
 למד על ניגע בעומק - מומחים בטיפול בהתמכרות למין עם גישה אמפתית ומקצועית. הסיפור, הצוות והמחויבות שלנו לעזור לך להשתחרר.
 
 ### צור קשר
-https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/contact
+https://niga-baomek.zappy5.app/contact
 צור קשר עם ניגע בעומק לשיחת ייעוץ ללא התחייבות. אנחנו כאן כדי לענות על שאלות ולעזור לך למצוא את השירות המתאים לטיפול בהתמכרות למין.
+
+### לקוחות מספרים בוידאו - ניגע בעומק
+https://niga-baomek.zappy5.app/video-testimonials
+צפו בעדויות וידאו מרגשות של בוגרי הסדנא לטיפול בהתמכרות למין. סיפורים אישיים על החלמה, תקווה והדרך לחופש.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/privacy
+https://niga-baomek.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/terms
+https://niga-baomek.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/accessibility
+https://niga-baomek.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About ניגע בעומק
-ניגע בעומק is a business in the בריאות הנפש וטיפול בהתמכרויות industry.
-
-## Target Audience
-מכורים למין
-
-## Industry
-בריאות הנפש וטיפול בהתמכרויות
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/robots.txt
+- **Sitemap**: https://niga-baomek.zappy5.app/sitemap.xml
+- **Robots.txt**: https://niga-baomek.zappy5.app/robots.txt

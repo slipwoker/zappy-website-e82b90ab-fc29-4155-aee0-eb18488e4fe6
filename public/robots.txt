@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://niga-baomek.zappy5.app/sitemap.xml
+Sitemap: https://zappy-site-e82b90ab-fc29-4155-aee0.onrender.com/sitemap.xml

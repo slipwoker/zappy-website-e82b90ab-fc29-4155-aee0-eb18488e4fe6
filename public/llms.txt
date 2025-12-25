@@ -1,6 +1,4 @@
-# ניגע בעומק — Generative Engine Optimization Map
-
-> A בריאות הנפש וטיפול בהתמכרויות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ניגע בעומק
-ניגע בעומק is a business in the בריאות הנפש וטיפול בהתמכרויות industry.
-
-## Target Audience
-מכורים למין
-
-## Industry
-בריאות הנפש וטיפול בהתמכרויות
-
+## About Business
 ---
 
 # Additional Resources
